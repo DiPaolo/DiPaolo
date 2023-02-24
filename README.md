@@ -1,5 +1,8 @@
 ### Pavel 'DiPaolo' Ditenbir
 
+> ##### DISCLAIMER
+> The most of my C++ code is under license and in other git storages, so it's not counted here. But it's the most of my output as a software engineer :)
+
 <!--
 **DiPaolo/DiPaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
