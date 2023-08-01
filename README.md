@@ -1,4 +1,4 @@
-### Pavel 'DiPaolo' Ditenbir
+### Pavel 'DiPaolo' Dittenbier
 
 > ##### DISCLAIMER
 > The most of my code is under commercial licenses and stored in other git storages, so it's not counted here.
