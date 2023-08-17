@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Most used languages](https://github.com/DiPaolo/DiPaolo/blob/main/assets/github_lang_stats_lines_2023_08_17.png)
+![Most used languages](https://github.com/DiPaolo/DiPaolo/blob/main/assets/github_lang_stats_lines_2023-08-17.png)
 
 [![DiPaolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipaolo&count_private=true&show_icons=true)](https://github.com/dipaolo/github-readme-stats)
