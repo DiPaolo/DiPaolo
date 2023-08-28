@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Most used languages](https://github.com/DiPaolo/DiPaolo/blob/main/assets/github_lang_stats_lines_2023-08-17.png)
+![Most used languages](https://github.com/DiPaolo/DiPaolo/blob/main/assets/github_lang_stats-2023_08_28-14_07_39.png)
